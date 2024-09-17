@@ -10,8 +10,8 @@ This project is a simple Node.js application using Express that provides two API
 #### 1. Clone the Repository
 
 ```http\\
-  git clone Q10
-  cd Q10
+  git clone https://github.com/Kmar0633/q-10.git
+  cd q-10
 ```
 #### 2. Install the dependancies
 
